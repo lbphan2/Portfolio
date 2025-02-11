@@ -1,5 +1,3 @@
-Engineering Portfolio
-
 Overview:
 
   This is a simple personal engineering portfolio for showcasing mechanical and aerospace engineering projects, relevant coursework, and technical skills. The portfolio is designed to be hosted as a personal website.
@@ -18,7 +16,7 @@ For inquiries, please reach out via email: lbphan2@illinois.edu
 
 <body>
     <header>
-        <h1>Mechanical/Aerospace Engineering Portfolio</h1>
+        <h1>Engineering Portfolio</h1>
     </header>
 
 <section>
@@ -29,7 +27,7 @@ For inquiries, please reach out via email: lbphan2@illinois.edu
 <section>
     <h2>Projects</h2>
     <div class="project">
-        <h3>Project Title 1</h3>
+        <h3>SAB P-51D Project (Siemens NX) – Wing Team</h3>
         <p>Description of the project, tools used, and key contributions.</p>
     </div>
     <div class="project">
