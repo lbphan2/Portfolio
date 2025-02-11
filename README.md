@@ -15,9 +15,6 @@ Contact:
 For inquiries, please reach out via email: lbphan2@illinois.edu
 
 <body>
-    <header>
-        <h1>Engineering Portfolio</h1>
-    </header>
 
 <section>
         <h2>About Me</h2>
