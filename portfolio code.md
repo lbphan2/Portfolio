@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Engineering Portfolio</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-        header { background: #004080; color: white; text-align: center; padding: 1rem; }
-        section { padding: 20px; max-width: 800px; margin: auto; }
-        h2 { border-bottom: 2px solid #004080; padding-bottom: 5px; }
-        .project, .course, .skill { margin-bottom: 15px; }
-        footer { text-align: center; padding: 1rem; background: #f0f0f0; }
-    </style>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Engineering Portfolio</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+            header { background: #004080; color: white; text-align: center; padding: 1rem; }
+            section { padding: 20px; max-width: 800px; margin: auto; }
+            h2 { border-bottom: 2px solid #004080; padding-bottom: 5px; }
+            .project, .course, .skill { margin-bottom: 15px; }
+            footer { text-align: center; padding: 1rem; background: #f0f0f0; }
+        </style>
+    </head>
 <body>
     <header>
         <h1>Mechanical/Aerospace Engineering Portfolio</h1>
