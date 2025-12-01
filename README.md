@@ -7,13 +7,20 @@ This is a simple personal engineering portfolio for showcasing mechanical and ae
 ## Featured Simulations
 
 <p float="left">
-  <img src="images/cfd_airfoil.png" alt="CFD simulation of airfoil pressure field" width="48%">
-  <img src="images/cfd_wing.png" alt="CFD simulation of wing flow visualization" width="48%">
+  <img src="images/cfd_airfoil_cp.jpg" alt="CFD simulation of wing section pressure coefficient" width="48%">
+  <img src="images/cfd_airfoil_vel.jpg" alt="CFD simulation of wing section velocity" width="48%">
 </p>
 
 <p float="left">
-  <img src="images/fea_bracket.png" alt="FEA stress distribution on structural bracket" width="48%">
-  <img src="images/fea_wing_spar.png" alt="FEA deflection/stress on wing spar" width="48%">
+  <img src="images/fea_beam1.png" alt="FEA stress distribution on cantilever beam" width="48%">
+  <img src="images/fea_beam2.png" alt="FEA deflection/stress on cantiliever beam" width="48%">
+  <img src="images/fea_beam3.png" alt="FEA stress distribution on cantilever beam" width="48%">
+  <img src="images/fea_beam4.png" alt="FEA deflection/stress on cantiliever beam" width="48%">
+  <img src="images/fea_beam5.png" alt="FEA stress distribution on cantilever beam" width="48%">
+  <img src="images/fea_beam6.png" alt="FEA deflection/stress on cantiliever beam" width="48%">
+  
+  <img src="images/fea_cube.png" alt="FEA stress distribution on cantilever beam" width="48%">
+  <img src="images/fea_spline.png" alt="FEA deflection/stress on cantiliever beam" width="48%">
 </p>
 
 ---
