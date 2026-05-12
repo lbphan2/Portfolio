@@ -11,6 +11,14 @@ This portfolio highlights simulation, analysis, and design projects involving CF
 ## Featured Simulations
 
 <p float="left">
+  <img src="vortex_isometric.png" alt="CFD vortex of 3D wing" width="48%">
+  <img src="vel_mag_400.png" alt="CFD of 2D circle" width="48%">
+  <img src="shocks_isometric.png" alt="CFD shocks of 3D wing" width="48%">
+  <img src="Unstructured_Mach.png" alt="Mach plot of unstructured mesh" width="48%">
+  <img src="Structured_supersonic_mach_N2_shock_test.png" alt="CFD shock in 2D CD Nozzle" width="48%">
+  <img src="RAE_2822_fixed_cl_0.85_mach.png" alt="Mach plot (fixed C_L)" width="48%">
+</p>
+<p float="left">
   <img src="cfd_airfoil_cp.jpg" alt="CFD pressure coefficient visualization for airfoil simulation" width="48%">
   <img src="cfd_airfoil_vel.jpg" alt="CFD velocity field visualization for airfoil simulation" width="48%">
   <img src="cfd_ball.jpg" alt="CFD velocity magnitude visualization around bluff body" width="48%">
