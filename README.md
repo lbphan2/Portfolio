@@ -49,6 +49,17 @@ My current technical focus areas include:
 - Python-based engineering automation and visualization
 - Data-driven manufacturing analysis and process-property modeling
 
+## ParaView / Scientific Visualization Highlights
+
+I have used ParaView to inspect and interpret CFD datasets from course projects and personal simulations, including airfoil flows, nozzle flows, vortex shedding, shock structures, and mesh-quality fields.
+
+Examples of post-processing tasks:
+- Created contour plots of Mach number, pressure, and velocity magnitude
+- Used slices, zoomed views, and scalar coloring to inspect flow features
+- Reviewed mesh-quality fields such as aspect ratio, skewness, scaled Jacobian, and cell area
+- Interpreted shocks, expansion regions, wakes, and aerodynamic pressure distributions
+- Combined ParaView visualization with Python-based coefficient and CSV post-processing
+
 ---
 
 ## Projects
