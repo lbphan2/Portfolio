@@ -147,7 +147,7 @@ Key work included:
 
 ## Resume & Contact
 
-- 📄 [Download Resume](resume.pdf)
+- 📄 [Download Resume](Luke Phan - Resume.pdf)
 - 📧 Email: **lbphan2@illinois.edu**
 - 🔗 LinkedIn: [linkedin.com/in/lukebphan](https://linkedin.com/in/lukebphan)
 
