@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my engineering portfolio. I am an Aerospace Engineering student at the University of Illinois Urbana-Champaign with interests in computational fluid dynamics, finite element analysis, numerical methods, and engineering data analysis.
+Welcome to my engineering portfolio. I am an Aerospace Engineering student at the University of Illinois Urbana-Champaign with interests in computational fluid dynamics, simulation, numerical methods, and engineering data analysis. 
 
 This portfolio highlights simulation, analysis, and design projects involving CFD, FEA, CAD, post-processing, and Python-based engineering workflows.
 
@@ -31,7 +31,7 @@ This portfolio highlights simulation, analysis, and design projects involving CF
 
 ## About Me
 
-I am an Aerospace Engineering student at UIUC interested in simulation-driven engineering, especially CFD, FEA, and numerical analysis. My work combines aerospace coursework, personal simulation projects, and engineering internship experience involving Python-based data analysis for aerospace alloy manufacturing.
+I am an Aerospace Engineering student at UIUC interested in simulation-driven engineering, especially CFD and numerical analysis. My work combines aerospace coursework, personal simulation projects, and engineering internship experience involving Python-based data analysis for aerospace alloy manufacturing.
 
 My current technical focus areas include:
 
